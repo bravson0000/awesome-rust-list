@@ -1,0 +1,3 @@
+# Requirements for awesome-rust-list
+
+# Add any dependencies for your Rust project here.
